@@ -1,8 +1,16 @@
 package practice;
 
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+
 public class GitHub_createRepo 
 {
-	Restassured.
+	@Test
+	public void GitHubCreatRepo()
+	{
+		RestAssured.baseURI="";
+	}
 	
 
 }
