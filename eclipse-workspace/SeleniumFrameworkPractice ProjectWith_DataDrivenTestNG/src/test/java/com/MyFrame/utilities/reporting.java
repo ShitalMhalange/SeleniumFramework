@@ -13,9 +13,6 @@ import com.aventstack.extentreports.markuputils.ExtentColor;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 
-
-
-
 public class reporting extends TestListenerAdapter
 {
 	public static ExtentHtmlReporter Extenthtml;
